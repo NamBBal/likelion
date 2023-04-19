@@ -1,2 +1,2 @@
 hello
-int numOfStuedents = 110;
+int numOfStuedents = 80;
