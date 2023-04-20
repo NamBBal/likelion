@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class AverageScoreEx {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.printf("%.1f", (sc.nextFloat() + sc.nextFloat() + sc.nextFloat()) / 3);
+        System.out.printf("%.1f", (sc.nextInt() + sc.nextInt() + sc.nextInt()) / 3.00);
+        //3.0 안쓸거면 nextfloat() 쓰고 3 으로 표현해도 됨
     }
 }
