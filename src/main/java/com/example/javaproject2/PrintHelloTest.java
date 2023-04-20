@@ -5,4 +5,5 @@ public class PrintHelloTest {
         PrintHello printHello = new PrintHello(); // 인스턴스화
         printHello.print();
     }
+
 }

@@ -8,5 +8,7 @@ public class BufferedReaderTest {
             BufferedReaderEx bufferedReaderEx = new BufferedReaderEx();
             bufferedReaderEx.readALine();
         }
+
+
     }
 
